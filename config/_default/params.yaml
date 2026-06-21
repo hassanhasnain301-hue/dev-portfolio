@@ -1,53 +1,15 @@
-# ══════════════════════════════════════════════════════════════════════════════
-# HUGO BLOX CONFIGURATION
-# Schema: hugoblox.com/schema/v2
-# Tutorial: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-# ══════════════════════════════════════════════════════════════════════════════
+# Site parameters
+
+social:
+  linkedin: "www.linkedin.com/in/hasnain-khan-572b6a409"
+  github: "https://github.com/hassanhasnain301-hue"
+  fiverr: "https://fiverr.com/hasnain_khan_31"
+  email: "hassanhasnain481@gmail.com"
+
 hugoblox:
-  schema: "2.0"
-
-  # ────────────────────────────────────────────────────────────────────────────
-  # IDENTITY
-  # ────────────────────────────────────────────────────────────────────────────
-  identity:
+  branding:
     name: "Hasnain Khan"
-    organization: ""
-    type: person
-    tagline: "Web Developer & Guest Post Specialist"
-    description: "Hasnain Khan — web developer and guest posting expert. Building responsive websites and helping businesses grow through quality backlinks."
-    social:
-      twitter: "hasnainkhan"
+    description: "Web Developer and Guest Post Specialist"
 
-  # ────────────────────────────────────────────────────────────────────────────
-  # THEME
-  # ────────────────────────────────────────────────────────────────────────────
-  theme:
-    mode: dark
-    pack: "default"
-    colors:
-      primary: ""
-      secondary: ""
-      neutral: ""
-    colors_light: {}
-    colors_dark: {}
-    surfaces:
-      background: ""
-      foreground: ""
-      header:
-        background: ""
-        foreground: ""
-      footer:
-        background: ""
-        foreground: ""
-
-  # ────────────────────────────────────────────────────────────────────────────
-  # TYPOGRAPHY
-  # ────────────────────────────────────────────────────────────────────────────
-  typography:
-    fonts:
-      - family: "Inter"
-        fonts:
-          - name: "Inter"
-            weights: [400, 500, 600, 700]
-            styles: ["normal"]
+features:
+  dark_mode: true
