@@ -1,0 +1,45 @@
+# Homepage content
+
+name: "Hasnain Khan"
+role: "Junior Front-End Developer"
+bio: "I build responsive, user-friendly websites using HTML, CSS, JavaScript, and Bootstrap."
+
+skills:
+  - HTML
+  - CSS
+  - JavaScript
+  - Bootstrap
+  - Responsive Design
+  - Git & GitHub
+
+projects:
+  - name: "Portfolio Website"
+    description: "My personal portfolio built with HTML, CSS, and JavaScript."
+    tech: ["HTML", "CSS", "JavaScript"]
+    link: "#"
+
+  - name: "Landing Page"
+    description: "A responsive landing page using Bootstrap 5."
+    tech: ["Bootstrap", "CSS"]
+    link: "#"
+
+  - name: "E-commerce UI"
+    description: "Modern product page design with clean UI."
+    tech: ["HTML", "CSS", "JavaScript"]
+    link: "#"
+
+guest_posts:
+  - name: "Techasoft"
+    description: "Guest post published on Techasoft about AI in web development."
+    link: "https://www.techasoft.com/blog/ai-web-development"
+    
+  - name: "RightPatient"
+    description: "Guest post published on RightPatient about biometric patient identification."
+    link: "https://www.rightpatient.com/blog/guest-post"
+
+  - name: "Creately"
+    description: "Guest post published on Creately about visual collaboration."
+    link: "https://creately.com/blog/guest-post"
+
+contact:
+  email: "hasnainkhan@email.com"
